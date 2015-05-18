@@ -5,3 +5,4 @@ This repository consists of a Jupyter notebook(s), notes, images, implementing m
 
 * [Energy Dispersing Air Bag Landing Systems](http://nbviewer.ipython.org/github/jckantor/Airbag-Design-for-Cargo-Airdrop/blob/master/notebooks/Energy%20Dispersing%20Air%20Bag%20Landing%20Systems.ipynb)
 * [Venting Mass Flowrate](http://nbviewer.ipython.org/github/jckantor/Airbag-Design-for-Cargo-Airdrop/blob/master/notebooks/Venting%20Mass%20Flowrate.ipynb)
+* [Bibliography](http://nbviewer.ipython.org/github/jckantor/Airbag-Design-for-Cargo-Airdrop/blob/master/notebooks/Bibliography.ipynb)
